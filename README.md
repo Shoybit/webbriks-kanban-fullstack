@@ -192,8 +192,8 @@ The final submission is a combined full-stack repository containing both fronten
 
 Add the original repositories used during development below:
 
-- Frontend: [Add original frontend repository link]
-- Backend: [Add original backend repository link]
+- Frontend: https://github.com/Shoybit/webbriks-kanban
+- Backend: https://github.com/Shoybit/webbriks-kanban-bakend
 
 ## Submission Repository
 
